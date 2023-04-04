@@ -20,7 +20,7 @@ const rootReducer = combineReducers({
 });
 
 const persistConfig = {
-  key: 'contactsList',
+  key: 'contactsy',
   storage,
   whitelist: ['contacts'],
 };
